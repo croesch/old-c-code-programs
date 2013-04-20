@@ -15,7 +15,7 @@
  *	Autor: Christian Rösch		 *
  * * * * * * * * * * * * * * * * * * * * *
  *
- * Zuletzt geändert: 09. Februar 2010, 22:11 Uhr
+ * Zuletzt geändert: 16. Februar 2010, 22:40 Uhr
  */
 
 #include <stdio.h>
@@ -48,6 +48,7 @@ int adressbuchSpeichern();
 int adressbuchInDateiSchreiben( char *dateipfad );
 int adressbuchLaden( char *dateipfad );
 int istAdressbuchDatei( char *dateipfad );
+void speicherFreigabe();
 
 /*
  * Ruft Funktion zur Ablaufsteuerung auf und gibt anschließend, sobald diese
@@ -73,6 +74,23 @@ int main( int argc, char **argv ) {
 
     ablaufSteuern();
 
+    speicherFreigabe();
+
+    return ( EXIT_SUCCESS );
+}
+
+
+/*
+ * Gibt angefangen vom Pointer anfang die Einträge im Adressbuch wieder frei.
+ * 
+ * * * * * * * * * * * * * * * * * * * * *
+ *	Autor: Christian Rösch		 *
+ * * * * * * * * * * * * * * * * * * * * *
+ *
+ * Zuletzt geändert: 16. Februar 2010, 22:50 Uhr
+ */
+void speicherFreigabe() {
+
     //Speicherfreigabe nach Programmdurchlauf
     Adresse *zuLoeschen = anfang;
     while( zuLoeschen != NULL ) {
@@ -85,7 +103,6 @@ int main( int argc, char **argv ) {
 	zuLoeschen = naechstesZuLoeschen;
     }
 
-    return ( EXIT_SUCCESS );
 }
 
 /*
@@ -193,18 +210,26 @@ int istAdressbuchDatei( char *dateipfad ) {
  *	Autor: Christian Rösch		 *
  * * * * * * * * * * * * * * * * * * * * *
  *
- * Zuletzt geändert: 09. Februar 2010, 22:50 Uhr
+ * Zuletzt geändert: 16. Februar 2010, 22:50 Uhr
  */
 int adressbuchLaden( char *dateipfad ) {
 
+    /*
+     * Ich benötige diese lokale Variable, da sonst das manuelle Laden und laden
+     * per Argumentübergabe nicht gleichzeitig funktioniert hat. Ich konnte nicht
+     * erneut Daten für Dateipfad einlesen in Zeile 209. So funktioniert es.
+     */
+    char pfad[100];
+
     if( dateipfad == NULL ) {
 	printf( "Gib den Dateipfad an, welche Datei geladen werden soll:\n" );
-	fgets( dateipfad, 100, stdin );
+	fgets( pfad, 100, stdin );
+	entferneUmbruch( pfad );
     } else {
-	strcat( dateipfad, "\n" ); //funktioniert sonst nicht.
+	strcpy( pfad, dateipfad );
     }
 
-    int dateiFormat = istAdressbuchDatei( dateipfad );
+    int dateiFormat = istAdressbuchDatei( pfad );
     if( dateiFormat != 1 ) {
 
 	printf( "Datei konnte nicht geladen werden. " );
@@ -223,7 +248,7 @@ int adressbuchLaden( char *dateipfad ) {
     }
 
     FILE *datei = NULL;
-    datei = fopen( dateipfad, "r" );
+    datei = fopen( pfad, "r" );
     if( datei == NULL ) {
 
 	printf( "Datei konnte nicht geoeffnet werden.\n" );
@@ -237,7 +262,11 @@ int adressbuchLaden( char *dateipfad ) {
     char ersteZeile[80];
     fgets( ersteZeile, 80, datei ); //damit die "Signierung" nicht geladen wird
 
-    Adresse *neu = anfang;
+    //Speicherleck gefixt, eingegebene Einträge wurden sonst nicht wieder
+    // freigegeben.
+    speicherFreigabe();
+
+    Adresse *neu = NULL;
     int i;
     for( i = 1; ftell( datei ) < groesse; ++i ) {
 
@@ -289,13 +318,15 @@ int adressbuchLaden( char *dateipfad ) {
  *	Autor: Christian Rösch		 *
  * * * * * * * * * * * * * * * * * * * * *
  *
- * Zuletzt geändert: 09. Februar 2010, 21:50 Uhr
+ * Zuletzt geändert: 16. Februar 2010, 22:40 Uhr
  */
 int adressbuchSpeichern() {
 
     char dateipfad[100];
     printf( "Gib den Dateipfad an, wo die Datei gespeichert werden soll:\n" );
     fgets( dateipfad, 100, stdin );
+    
+    entferneUmbruch( dateipfad );
 
     int dateiFormat = istAdressbuchDatei( dateipfad );
     if( dateiFormat == -2 ) {
@@ -547,11 +578,11 @@ void leereBildschirm() {
  *	Autor: Christian Rösch		 *
  * * * * * * * * * * * * * * * * * * * * *
  *
- * Zuletzt geändert: 01. Februar 2010, 11:11 Uhr
+ * Zuletzt geändert: 16. Februar 2010, 22:50 Uhr
  */
 void eintragEinlesen() {
 
-    Adresse *neu;
+    Adresse *neu = NULL;
     if( anfang == NULL ) {
 
 	if( ( anfang = malloc( sizeof( Adresse ) ) ) == NULL ) {
