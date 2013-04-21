@@ -8,7 +8,7 @@
  *
  * Nach dem Spiel wird gefragt ob erneut gespielt werden soll.
  *
- * Zuletzt geändert am 18. Januar 2010, 19:42
+ * Zuletzt geändert am 08. Februar 2010, 12:29
  */
 
 #include <stdio.h>
@@ -32,7 +32,7 @@ char spieler1[50] = "Spieler 1", spieler2[50] = "Spieler 2";
  * wird das Programm beendet.
  *
  * AUTOR: Christian Rösch
- * Zuletzt geändert am 18. Januar 2010, 19:42
+ * Zuletzt geändert am 08. Februar 2010, 12:29
  */
 int main() {
 
@@ -40,10 +40,10 @@ int main() {
     leereBildschirm();
 
     printf( "NAMEN eingeben:\nSpieler 1, gib deinen Namen ein: " );
-    scanf( "%s", &spieler1 );
+    scanf( "%s", spieler1 );
 
     printf( "\nSpieler 2, gib deinen Namen ein: " );
-    scanf( "%s", &spieler2 );
+    scanf( "%s", spieler2 );
     
     do {
 	int i;
@@ -311,11 +311,11 @@ void anzeigeErstellen( int beispielAnzeigen ) {
  * Leert den Bildschirm und schreibt den Programmtitel in die erste Zeile!
  *
  * AUTOR: Christian Rösch
- * Zuletzt geändert am 18. Januar 2010, 19:42
+ * Zuletzt geändert am 08. Februar 2010, 12:29
  */
 void leereBildschirm() {
 
     system( "clear" );
-    printf( "TicTacToe V. 1.0:\n" );
+    printf( "TicTacToe V. 1.1:\n" );
     
 }
