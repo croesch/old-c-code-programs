@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "../ZahlenRatenBibliothek/finden.h"
+#include "finden.h"
 
 int untergrenze = 0, obergrenze = 10;
 
