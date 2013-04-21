@@ -1,0 +1,250 @@
+000001 59 564 05 103 Die Verurteilten: BeschreibungFilm1>>KommentarFilmDie Verurteilten
+000002 57 872 00 190 Der Pate I: BeschreibungFilm2
+000003 82 578 05 106 Der Pate II: BeschreibungFilm3
+000004 99 047 08 109 Zwei glorreiche Halunken: BeschreibungFilm4>>KommentarFilmZwei glorreiche Halunken
+000005 94 970 16 076 Pulp Fiction: BeschreibungFilm5
+000006 05 363 17 139 Schindlers Liste
+000007 65 398 15 165 Die zwölf Geschworenen
+000008 46 375 06 072 Inception
+000009 25 200 06 119 Einer flog über das Kuckucksnest>>KommentarFilmEiner flog über das Kuckucksnest
+000010 18 166 02 158 The Dark Knight>>KommentarFilmThe Dark Knight 
+000011 14 883 16 143 Das Imperium schlägt zurück: BeschreibungFilm11>>KommentarFilmDas Imperium schlägt zurück 
+000012 55 404 04 076 Der Herr der Ringe - Die Rückkehr des Königs: BeschreibungFilm12>>KommentarFilmDer Herr der Ringe - Die Rückkehr des Königs 
+000013 40 880 12 095 Die sieben Samurai: BeschreibungFilm13>>KommentarFilmDie sieben Samurai 
+000014 19 588 07 148 Fight Club: BeschreibungFilm14>>KommentarFilmFight Club 
+000015 22 024 13 064 GoodFellas - Drei Jahrzehnte in der Mafia: BeschreibungFilm15>>KommentarFilmGoodFellas - Drei Jahrzehnte in der Mafia 
+000016 53 274 13 065 Krieg der Sterne - Episode IV Eine neue Hoffnung: BeschreibungFilm16>>KommentarFilmKrieg der Sterne - Episode IV Eine neue Hoffnung 
+000017 63 370 05 067 Casablanca: BeschreibungFilm17>>KommentarFilmCasablanca 
+000018 91 604 03 158 Cidade de Deus: BeschreibungFilm18>>KommentarFilmCidade de Deus 
+000019 17 341 12 176 Der Herr der Ringe - Die Gefährten: BeschreibungFilm19>>KommentarFilmDer Herr der Ringe - Die Gefährten
+000020 47 238 16 176 Spiel mir das Lied vom Tod: BeschreibungFilm20>>KommentarFilmSpiel mir das Lied vom Tod 
+000021 37 625 13 153 Das Fenster zum Hof: BeschreibungFilm21>>KommentarFilmDas Fenster zum Hof 
+000022 10 818 18 068 Jäger des verlorenen Schatzes: BeschreibungFilm22>>KommentarFilmJäger des verlorenen Schatzes
+000023 32 855 07 162 Matrix: BeschreibungFilm23>>KommentarFilmMatrix 
+000024 09 040 11 106 Psycho: BeschreibungFilm24>>KommentarFilmPsycho 
+000025 48 943 07 174 Die üblichen Verdächtigen: BeschreibungFilm25>>KommentarFilmDie üblichen Verdächtigen 
+000026 61 800 09 126 Das Schweigen der Lämmer: BeschreibungFilm26>>KommentarFilmDas Schweigen der Lämmer 
+000027 78 791 05 192 Sieben: BeschreibungFilm27>>KommentarFilmSieben 
+000028 68 079 08 149 It's a Wonderful Life: BeschreibungFilm28>>KommentarFilmIt's a Wonderful Life 
+000029 93 732 13 069 Memento: BeschreibungFilm29>>KommentarFilmMemento 
+000030 53 606 10 077 Der Herr der Ringe - Die zwei Türme: BeschreibungFilm30>>KommentarFilmDer Herr der Ringe - Die zwei Türme
+000031 01 890 00 064 Toy Story : BeschreibungFilm31>>KommentarFilmToy Story 
+000032 95 452 07 109 Boulevard der Dämmerung: BeschreibungFilm32>>KommentarFilmBoulevard der Dämmerung 
+000033 31 052 06 177 Forrest Gump: BeschreibungFilm33>>KommentarFilmForrest Gump 
+000034 19 428 15 130 Leon - Der Profi: BeschreibungFilm34>>KommentarFilmLeon - Der Profi 
+000035 96 497 08 195 Dr. Seltsam, oder wie ich lernte, die Bombe zu lieben: BeschreibungFilm35>>KommentarFilmDr. Seltsam, oder wie ich lernte, die Bombe zu lieben 
+000036 80 660 18 193 Apocalypse Now: BeschreibungFilm36>>KommentarFilmApocalypse Now 
+000037 85 411 17 189 Citizen Kane: BeschreibungFilm37>>KommentarFilmCitizen Kane 
+000038 43 063 10 062 Der unsichtbare Dritte: BeschreibungFilm38>>KommentarFilmDer unsichtbare Dritte 
+000039 21 392 17 098 American Beauty: BeschreibungFilm39>>KommentarFilmAmerican Beauty 
+000040 51 658 08 169 American History X: BeschreibungFilm40>>KommentarFilmAmerican History X 
+000041 65 041 15 060 Taxi Driver: BeschreibungFilm41>>KommentarFilmTaxi Driver 
+000042 78 420 13 112 Terminator - Tag der Abrechnung: BeschreibungFilm42>>KommentarFilmTerminator - Tag der Abrechnung
+000043 36 091 13 158 Der Soldat James Ryan: BeschreibungFilm43>>KommentarFilmDer Soldat James Ryan 
+000044 59 272 18 085 Vertigo - Aus dem Reich der Toten: BeschreibungFilm44>>KommentarFilmVertigo - Aus dem Reich der Toten
+000045 85 475 00 087 Alien - Das unheimliche Wesen aus einer fremden Welt: BeschreibungFilm45>>KommentarFilmAlien - Das unheimliche Wesen aus einer fremden Welt 
+000046 93 739 17 144 Die fabelhafte Welt der Amelie: BeschreibungFilm46>>KommentarFilmDie fabelhafte Welt der Amelie
+000047 90 784 14 169 Chihiros Reise ins Zauberland: BeschreibungFilm47>>KommentarFilmChihiros Reise ins Zauberland
+000048 07 459 09 176 WALL·E - Der letzte räumt die Erde auf: BeschreibungFilm48>>KommentarFilmWALL·E - Der letzte räumt die Erde auf 
+000049 22 203 07 112 Shining: BeschreibungFilm49>>KommentarFilmShining 
+000050 36 349 15 167 Wege zum Ruhm: BeschreibungFilm50>>KommentarFilmWege zum Ruhm 
+000051 01 942 12 190 Lawrence von Arabien: BeschreibungFilm51>>KommentarFilmLawrence von Arabien 
+000052 28 336 02 104 Der Pianist: BeschreibungFilm52>>KommentarFilmDer Pianist 
+000053 12 796 10 119 Frau ohne Gewissen: BeschreibungFilm53>>KommentarFilmFrau ohne Gewissen 
+000054 08 884 02 123 Lichter der Großstadt: BeschreibungFilm54>>KommentarFilmLichter der Großstadt 
+000055 99 754 18 077 Uhrwerk Orange: BeschreibungFilm55>>KommentarFilmUhrwerk Orange 
+000056 50 931 13 101 Das Leben der Anderen: BeschreibungFilm56>>KommentarFilmDas Leben der Anderen 
+000057 83 901 05 141 M: BeschreibungFilm57>>KommentarFilmM 
+000058 36 033 13 167 Departed - Unter Feinden: BeschreibungFilm58>>KommentarFilmDeparted - Unter Feinden 
+000059 38 326 16 200 Wer die Nachtigall stört: BeschreibungFilm59>>KommentarFilmWer die Nachtigall stört 
+000060 23 227 08 196 Aliens - Die Rückkehr: BeschreibungFilm60>>KommentarFilmAliens - Die Rückkehr 
+000061 83 066 16 162 Vergiss mein nicht: BeschreibungFilm61>>KommentarFilmVergiss mein nicht 
+000062 44 105 05 084 Requiem for a Dream: BeschreibungFilm62>>KommentarFilmRequiem for a Dream 
+000063 28 639 10 139 Das Boot: BeschreibungFilm63>>KommentarFilmDas Boot 
+000064 00 074 15 125 Black Swan: BeschreibungFilm64>>KommentarFilmBlack Swan 
+000065 34 891 08 119 Reservoir Dogs - Wilde Hunde: BeschreibungFilm65>>KommentarFilmReservoir Dogs - Wilde Hunde
+000066 19 430 13 142 Der dritte Mann: BeschreibungFilm66>>KommentarFilmDer dritte Mann 
+000067 50 841 17 096 L.A. Confidential: BeschreibungFilm67>>KommentarFilmL.A. Confidential 
+000068 21 076 04 080 Moderne Zeiten: BeschreibungFilm68>>KommentarFilmModerne Zeiten 
+000069 29 566 09 078 Chinatown: BeschreibungFilm69>>KommentarFilmChinatown 
+000070 24 566 16 186 Das Leben ist schön: BeschreibungFilm70>>KommentarFilmDas Leben ist schön 
+000071 97 415 12 065 Der Schatz der Sierra Madre: BeschreibungFilm71>>KommentarFilmDer Schatz der Sierra Madre 
+000072 98 913 03 085 Zurück in die Zukunft: BeschreibungFilm72>>KommentarFilmZurück in die Zukunft 
+000073 37 950 17 120 Prestige - Die Meister der Magie: BeschreibungFilm73>>KommentarFilmPrestige - Die Meister der Magie
+000074 71 591 17 182 Die Ritter der Kokosnuß: BeschreibungFilm74>>KommentarFilmDie Ritter der Kokosnuß 
+000075 16 790 03 165 Wie ein wilder Stier: BeschreibungFilm75>>KommentarFilmWie ein wilder Stier 
+000076 31 516 14 063 Pans Labyrinth: BeschreibungFilm76>>KommentarFilmPans Labyrinth 
+000077 97 823 16 169 Cinema Paradiso: BeschreibungFilm77>>KommentarFilmCinema Paradiso 
+000078 71 541 12 170 Du sollst mein Glücksstern sein: BeschreibungFilm78>>KommentarFilmDu sollst mein Glücksstern sein
+000079 76 163 06 105 Manche mögen's heiß: BeschreibungFilm79>>KommentarFilmManche mögen's heiß 
+000080 61 431 07 061 Rashomon: BeschreibungFilm80>>KommentarFilmRashomon 
+000081 14 587 03 084 Die Brücke am Kwai: BeschreibungFilm81>>KommentarFilmDie Brücke am Kwai 
+000082 70 874 05 145 The Green Mile: BeschreibungFilm82>>KommentarFilmThe Green Mile 
+000083 06 870 02 071 Es war einmal in Amerika: BeschreibungFilm83>>KommentarFilmEs war einmal in Amerika 
+000084 27 781 03 082 Amadeus: BeschreibungFilm84>>KommentarFilmAmadeus 
+000085 52 402 16 177 Alles über Eva: BeschreibungFilm85>>KommentarFilmAlles über Eva 
+000086 46 420 01 148 Full Metal Jacket: BeschreibungFilm86>>KommentarFilmFull Metal Jacket 
+000087 06 033 14 131 Fahrraddiebe: BeschreibungFilm87>>KommentarFilmFahrraddiebe 
+000088 06 303 04 140 Der große Diktator: BeschreibungFilm88>>KommentarFilmDer große Diktator 
+000089 35 465 17 096  Odyssee im Weltraum: BeschreibungFilm89>>KommentarFilm Odyssee im Weltraum 
+000090 31 181 05 121 Braveheart: BeschreibungFilm90>>KommentarFilmBraveheart 
+000091 66 268 03 113 Inglourious Basterds: BeschreibungFilm91>>KommentarFilmInglourious Basterds 
+000092 15 706 05 152 Das Appartement: BeschreibungFilm92>>KommentarFilmDas Appartement 
+000093 63 661 14 123 Der Untergang: BeschreibungFilm93>>KommentarFilmDer Untergang 
+000094 99 429 04 116 Metropolis: BeschreibungFilm94>>KommentarFilmMetropolis 
+000095 66 035 15 066 Oben: BeschreibungFilm95>>KommentarFilmOben 
+000096 45 249 04 094 Gladiator: BeschreibungFilm96>>KommentarFilmGladiator 
+000097 89 778 09 108 Gran Torino: BeschreibungFilm97>>KommentarFilmGran Torino 
+000098 19 591 01 121 Der Clou: BeschreibungFilm98>>KommentarFilmDer Clou 
+000099 94 818 11 110 Erbarmungslos: BeschreibungFilm99>>KommentarFilmErbarmungslos 
+000100 44 805 15 173 Oldboy: BeschreibungFilm100>>KommentarFilmOldboy 
+000101 35 358 06 063 The King's Speech: BeschreibungFilm101>>KommentarFilmThe King's Speech 
+000102 55 136 05 170 Der Elefantenmensch: BeschreibungFilm102>>KommentarFilmDer Elefantenmensch 
+000103 94 885 08 139 Mr. Smith Goes to Washington: BeschreibungFilm103>>KommentarFilmMr. Smith Goes to Washington
+000104 86 367 10 175 Die Spur des Falken: BeschreibungFilm104>>KommentarFilmDie Spur des Falken 
+000105 50 023 09 131 Die Faust im Nacken: BeschreibungFilm105>>KommentarFilmDie Faust im Nacken 
+000106 71 715 06 089 Sin City: BeschreibungFilm106>>KommentarFilmSin City 
+000107 37 898 17 179 Rebecca: BeschreibungFilm107>>KommentarFilmRebecca 
+000108 59 504 02 098 Die Rückkehr der Jedi-Ritter: BeschreibungFilm108>>KommentarFilmDie Rückkehr der Jedi-Ritter 
+000109 51 009 11 074 Indiana Jones und der letzte Kreuzzug: BeschreibungFilm109>>KommentarFilmIndiana Jones und der letzte Kreuzzug 
+000110 16 013 08 122 Stirb langsam: BeschreibungFilm110>>KommentarFilmStirb langsam 
+000111 97 320 17 133 Gesprengte Ketten: BeschreibungFilm111>>KommentarFilmGesprengte Ketten 
+000112 92 664 07 103 Prinzessin Mononoke: BeschreibungFilm112>>KommentarFilmPrinzessin Mononoke 
+000113 47 935 11 168 Batman Begins: BeschreibungFilm113>>KommentarFilmBatman Begins 
+000114 12 204 12 068 Das siebente Siegel: BeschreibungFilm114>>KommentarFilmDas siebente Siegel 
+000115 20 437 15 091 Der weiße Hai: BeschreibungFilm115>>KommentarFilmDer weiße Hai 
+000116 64 315 09 130 Hotel Ruanda: BeschreibungFilm116>>KommentarFilmHotel Ruanda 
+000117 51 338 15 092 Der Blade Runner: BeschreibungFilm117>>KommentarFilmDer Blade Runner 
+000118 20 491 04 153 Fargo - Blutiger Schnee: BeschreibungFilm118>>KommentarFilmFargo - Blutiger Schnee 
+000119 72 765 16 089 Der General: BeschreibungFilm119>>KommentarFilmDer General 
+000120 63 769 14 171 No Country for Old Men: BeschreibungFilm120>>KommentarFilmNo Country for Old Men 
+000121 27 585 05 092 Heat: BeschreibungFilm121>>KommentarFilmHeat 
+000122 33 342 06 150 Für ein paar Dollar mehr: BeschreibungFilm122>>KommentarFilmFür ein paar Dollar mehr 
+000123 10 428 06 085 Slumdog Millionär: BeschreibungFilm123>>KommentarFilmSlumdog Millionär 
+000124 82 190 09 182 Die Leibwache: BeschreibungFilm124>>KommentarFilmDie Leibwache 
+000125 70 659 02 131 Das zauberhafte Land: BeschreibungFilm125>>KommentarFilmDas zauberhafte Land 
+000126 53 265 04 181 Im Zeichen des Bösen: BeschreibungFilm126>>KommentarFilmIm Zeichen des Bösen 
+000127 03 055 00 196 Ran: BeschreibungFilm127>>KommentarFilmRan 
+000128 77 683 04 184 Das Grab der Leuchtkäfer: BeschreibungFilm128>>KommentarFilmDas Grab der Leuchtkäfer 
+000129 87 160 17 074 Zeugin der Anklage: BeschreibungFilm129>>KommentarFilmZeugin der Anklage 
+000130 44 824 15 172 Wilde Erdbeeren: BeschreibungFilm130>>KommentarFilmWilde Erdbeeren 
+000131 43 456 11 150 Snatch - Schweine und Diamanten: BeschreibungFilm131>>KommentarFilmSnatch - Schweine und Diamanten
+000132 61 152 11 128 Sixth Sense: BeschreibungFilm132>>KommentarFilmSixth Sense 
+000133 27 792 09 168 Die durch die Hölle gehen: BeschreibungFilm133>>KommentarFilmDie durch die Hölle gehen 
+000134 83 105 10 193 Der Stadtneurotiker: BeschreibungFilm134>>KommentarFilmDer Stadtneurotiker 
+000135 97 770 14 145 The Big Lebowski: BeschreibungFilm135>>KommentarFilmThe Big Lebowski 
+000136 91 420 15 082 Donnie Darko - Fürchte die Dunkelheit: BeschreibungFilm136>>KommentarFilmDonnie Darko - Fürchte die Dunkelheit 
+000137 54 842 12 180 Der Unbeugsame: BeschreibungFilm137>>KommentarFilmDer Unbeugsame 
+000138 39 194 11 135 Der König der Löwen: BeschreibungFilm138>>KommentarFilmDer König der Löwen 
+000139 27 881 04 171 Der Fremde im Zug: BeschreibungFilm139>>KommentarFilmDer Fremde im Zug 
+000140 17 087 12 077 Es geschah in einer Nacht: BeschreibungFilm140>>KommentarFilmEs geschah in einer Nacht 
+000141 60 984 02 132 Zwölf Uhr mittags: BeschreibungFilm141>>KommentarFilmZwölf Uhr mittags 
+000142 98 498 11 153 District : BeschreibungFilm142>>KommentarFilmDistrict 
+000143 36 882 02 162 Kill Bill Vol. I: BeschreibungFilm143>>KommentarFilmKill Bill Vol. I
+000144 35 133 15 109 Platoon: BeschreibungFilm144>>KommentarFilmPlatoon 
+000145 17 300 05 061 Toy Story: BeschreibungFilm145>>KommentarFilmToy Story 
+000146 95 810 18 183 Into the Wild: BeschreibungFilm146>>KommentarFilmInto the Wild 
+000147 21 847 01 130 There Will Be Blood: BeschreibungFilm147>>KommentarFilmThere Will Be Blood 
+000148 93 742 17 098 Million Dollar Baby: BeschreibungFilm148>>KommentarFilmMillion Dollar Baby 
+000149 33 730 10 135 Berüchtigt: BeschreibungFilm149>>KommentarFilmBerüchtigt 
+000150 39 150 08 171 Butch Cassidy und Sundance Kid: BeschreibungFilm150>>KommentarFilmButch Cassidy und Sundance Kid
+000151 11 357 03 137 Sonnenaufgang: BeschreibungFilm151>>KommentarFilmSonnenaufgang 
+000152 89 602 07 062 Vom Winde verweht: BeschreibungFilm152>>KommentarFilmVom Winde verweht 
+000153 80 307 11 099 Trainspotting - Neue Helden: BeschreibungFilm153>>KommentarFilmTrainspotting - Neue Helden 
+000154 79 576 10 200 Scarface - Toni, das Narbengesicht: BeschreibungFilm154>>KommentarFilmScarface - Toni, das Narbengesicht
+000155 39 975 06 145 Goldrausch: BeschreibungFilm155>>KommentarFilmGoldrausch 
+000156 48 602 02 174 Früchte des Zorns: BeschreibungFilm156>>KommentarFilmFrüchte des Zorns 
+000157 19 023 18 120 Avatar - Aufbruch nach Pandora: BeschreibungFilm157>>KommentarFilmAvatar - Aufbruch nach Pandora
+000158 70 193 05 158 ...und täglich grüßt das Murmeltier: BeschreibungFilm158>>KommentarFilm...und täglich grüßt das Murmeltier
+000159 90 148 01 128 Ben Hur: BeschreibungFilm159>>KommentarFilmBen Hur 
+000160 79 752 03 167 Tote schlafen fest: BeschreibungFilm160>>KommentarFilmTote schlafen fest 
+000161 08 022 06 173 Botschafter der Angst: BeschreibungFilm161>>KommentarFilmBotschafter der Angst 
+000162 76 848 17 200 The Wrestler: BeschreibungFilm162>>KommentarFilmThe Wrestler 
+000163 43 793 13 104 Die Reifeprüfung: BeschreibungFilm163>>KommentarFilmDie Reifeprüfung 
+000164 58 886 17 167 Amores perros: BeschreibungFilm164>>KommentarFilmAmores perros 
+000165 61 492 09 072 Das Leben des Brian: BeschreibungFilm165>>KommentarFilmDas Leben des Brian 
+000166 89 621 06 195 Findet Nemo: BeschreibungFilm166>>KommentarFilmFindet Nemo 
+000167 43 912 15 121 Der Terminator: BeschreibungFilm167>>KommentarFilmDer Terminator 
+000168 01 489 05 162 Das Bourne Ultimatum: BeschreibungFilm168>>KommentarFilmDas Bourne Ultimatum 
+000169 35 324 03 061 Der Vagabund und das Kind: BeschreibungFilm169>>KommentarFilmDer Vagabund und das Kind 
+000170 17 062 05 133 Ikiru - Einmal richtig leben: BeschreibungFilm170>>KommentarFilmIkiru - Einmal richtig leben 
+000171 39 893 12 098 Die besten Jahre unseres Lebens: BeschreibungFilm171>>KommentarFilmDie besten Jahre unseres Lebens
+000172 62 473 10 168 Lohn der Angst: BeschreibungFilm172>>KommentarFilmLohn der Angst 
+000173 70 837 00 135 Bube Dame König grAs: BeschreibungFilm173>>KommentarFilmBube Dame König grAs 
+000174 63 052 08 129 El secreto de sus ojos: BeschreibungFilm174>>KommentarFilmEl secreto de sus ojos 
+000175 89 242 14 110 Stand by Me - Das Geheimnis eines Sommers: BeschreibungFilm175>>KommentarFilmStand by Me - Das Geheimnis eines Sommers 
+000176 35 913 03 129 Casino: BeschreibungFilm176>>KommentarFilmCasino 
+000177 23 401 11 186 Das Ding aus einer anderen Welt: BeschreibungFilm177>>KommentarFilmDas Ding aus einer anderen Welt
+000178 34 674 06 066 Monkeys: BeschreibungFilm178>>KommentarFilmMonkeys 
+000179 95 273 00 111 Drachenzähmen leicht gemacht: BeschreibungFilm179>>KommentarFilmDrachenzähmen leicht gemacht
+000180 85 842 06 067 V wie Vendetta: BeschreibungFilm180>>KommentarFilmV wie Vendetta 
+000181 88 350 13 079 Hundstage: BeschreibungFilm181>>KommentarFilmHundstage 
+000182 60 733 00 107 Die Teuflischen: BeschreibungFilm182>>KommentarFilmDie Teuflischen 
+000183 50 113 08 156 Gandhi: BeschreibungFilm183>>KommentarFilmGandhi 
+000184 56 171 17 119 Ratatouille: BeschreibungFilm184>>KommentarFilmRatatouille 
+000185 61 815 03 082 The Social Network: BeschreibungFilm185>>KommentarFilmThe Social Network 
+000186 55 998 00 174 Tonari no Totoro: BeschreibungFilm186>>KommentarFilmTonari no Totoro 
+000187 32 339 18 180 Das Urteil von Nürnberg: BeschreibungFilm187>>KommentarFilmDas Urteil von Nürnberg 
+000188 49 520 10 089 Achteinhalb: BeschreibungFilm188>>KommentarFilmAchteinhalb 
+000189 43 238 08 189 Die Nacht des Jägers: BeschreibungFilm189>>KommentarFilmDie Nacht des Jägers 
+000190 79 039 14 138 Die Braut des Prinzen: BeschreibungFilm190>>KommentarFilmDie Braut des Prinzen 
+000191 01 364 02 119 Star Trek: BeschreibungFilm191>>KommentarFilmStar Trek 
+000192 05 739 02 091 Good Will Hunting - Der gute Will Hunting: BeschreibungFilm192>>KommentarFilmGood Will Hunting - Der gute Will Hunting 
+000193 43 343 11 191 Haie der Großstadt: BeschreibungFilm193>>KommentarFilmHaie der Großstadt 
+000194 39 102 03 160 Killing: BeschreibungFilm194>>KommentarFilmKilling 
+000195 58 583 01 084 Sie küßten und sie schlugen ihn: BeschreibungFilm195>>KommentarFilmSie küßten und sie schlugen ihn
+000196 03 851 17 143 Network: BeschreibungFilm196>>KommentarFilmNetwork 
+000197 30 809 12 189 Das Lied der Straße: BeschreibungFilm197>>KommentarFilmDas Lied der Straße 
+000198 06 699 04 087 Schlacht um Algier: BeschreibungFilm198>>KommentarFilmSchlacht um Algier 
+000199 87 105 08 069 The Incredibles: BeschreibungFilm199>>KommentarFilmThe Incredibles 
+000200 41 813 07 127 Schmetterling und Taucherglocke: BeschreibungFilm200>>KommentarFilmSchmetterling und Taucherglocke
+000201 61 178 12 061 Endstation Sehnsucht: BeschreibungFilm201>>KommentarFilmEndstation Sehnsucht 
+000202 82 441 15 179 Brügge sehen... und sterben?: BeschreibungFilm202>>KommentarFilmBrügge sehen... und sterben?
+000203 06 345 00 194 Der Exorzist: BeschreibungFilm203>>KommentarFilmDer Exorzist 
+000204 42 233 16 160 The Wild Bunch - Sie kannten kein Gesetz: BeschreibungFilm204>>KommentarFilmThe Wild Bunch - Sie kannten kein Gesetz 
+000205 15 072 04 080 Stalag : BeschreibungFilm205>>KommentarFilmStalag 
+000206 55 873 09 079 Persona: BeschreibungFilm206>>KommentarFilmPersona 
+000207 81 868 11 093 Bei Anruf Mord: BeschreibungFilm207>>KommentarFilmBei Anruf Mord 
+000208 92 429 11 119 Wer hat Angst vor Virginia Woolf?: BeschreibungFilm208>>KommentarFilmWer hat Angst vor Virginia Woolf?
+000209 84 303 17 144 Mary and Max: BeschreibungFilm209>>KommentarFilmMary and Max 
+000210 01 632 11 191 Adel verpflichtet: BeschreibungFilm210>>KommentarFilmAdel verpflichtet 
+000211 49 132 02 127 Die Passion der Jeanne d'Arc: BeschreibungFilm211>>KommentarFilmDie Passion der Jeanne d'Arc 
+000212 29 382 03 093 Im Westen nichts Neues: BeschreibungFilm212>>KommentarFilmIm Westen nichts Neues 
+000213 95 643 01 200 Children of Men: BeschreibungFilm213>>KommentarFilmChildren of Men 
+000214 05 074 11 194 Fanny und Alexander: BeschreibungFilm214>>KommentarFilmFanny und Alexander 
+000215 30 677 06 130 Rocky: BeschreibungFilm215>>KommentarFilmRocky 
+000216 49 297 09 160 So finster die Nacht: BeschreibungFilm216>>KommentarFilmSo finster die Nacht 
+000217 63 943 05 064 Ed Wood: BeschreibungFilm217>>KommentarFilmEd Wood 
+000218 53 452 14 144 Big Fish - Der Zauber, der ein Leben zur Legende macht: BeschreibungFilm218>>KommentarFilmBig Fish - Der Zauber, der ein Leben zur Legende macht 
+000219 13 622 07 170 Magnolia: BeschreibungFilm219>>KommentarFilmMagnolia 
+000220 13 286 04 125 Mystic River: BeschreibungFilm220>>KommentarFilmMystic River 
+000221 66 692 08 117 Barry Lyndon: BeschreibungFilm221>>KommentarFilmBarry Lyndon 
+000222 23 901 00 199 Manhattan: BeschreibungFilm222>>KommentarFilmManhattan 
+000223 43 965 03 166 Die Truman Show: BeschreibungFilm223>>KommentarFilmDie Truman Show 
+000224 29 046 12 099 Rosemaries Baby: BeschreibungFilm224>>KommentarFilmRosemaries Baby 
+000225 43 247 02 113 Patton - Rebell in Uniform: BeschreibungFilm225>>KommentarFilmPatton - Rebell in Uniform 
+000226 92 970 11 110 Kill Bill Vol. II: BeschreibungFilm226>>KommentarFilmKill Bill Vol. II
+000227 10 408 10 120 Das Fest: BeschreibungFilm227>>KommentarFilmDas Fest 
+000228 55 497 07 140 Ein Herz und eine Krone: BeschreibungFilm228>>KommentarFilmEin Herz und eine Krone 
+000229 50 566 02 130 Mou gaan dou: BeschreibungFilm229>>KommentarFilmMou gaan dou 
+000230 71 498 01 162 His Girl Friday - Sein Mädchen für besondere Fälle: BeschreibungFilm230>>KommentarFilmHis Girl Friday - Sein Mädchen für besondere Fälle 
+000231 30 332 08 118 Das wandelnde Schloss: BeschreibungFilm231>>KommentarFilmDas wandelnde Schloss 
+000232 44 561 00 071 Die Nächte der Cabiria: BeschreibungFilm232>>KommentarFilmDie Nächte der Cabiria 
+000233 61 060 11 116 Buster Keaton - Sherlock Junior: BeschreibungFilm233>>KommentarFilmBuster Keaton - Sherlock Junior
+000234 50 784 07 199 Fluch der Karibik: BeschreibungFilm234>>KommentarFilmFluch der Karibik 
+000235 73 879 09 180 Letters from Iwo Jima: BeschreibungFilm235>>KommentarFilmLetters from Iwo Jima 
+000236 92 384 08 112 Die Marx Brothers im Krieg: BeschreibungFilm236>>KommentarFilmDie Marx Brothers im Krieg 
+000237 22 868 15 116 Arsen und Spitzenhäubchen: BeschreibungFilm237>>KommentarFilmArsen und Spitzenhäubchen 
+000238 12 914 17 190 Die Nacht vor der Hochzeit: BeschreibungFilm238>>KommentarFilmDie Nacht vor der Hochzeit 
+000239 80 935 08 128 Der Mann der Liberty Valance erschoss: BeschreibungFilm239>>KommentarFilmDer Mann der Liberty Valance erschoss 
+000240 75 253 06 075 Mein Freund Harvey: BeschreibungFilm240>>KommentarFilmMein Freund Harvey 
+000241 32 113 09 067 Mord mit kleinen Fehlern: BeschreibungFilm241>>KommentarFilmMord mit kleinen Fehlern 
+000242 98 058 02 179 Cocktail für eine Leiche: BeschreibungFilm242>>KommentarFilmCocktail für eine Leiche 
+000243 95 215 13 102 Drei Farben - Rot: BeschreibungFilm243>>KommentarFilmDrei Farben - Rot 
+000244 63 287 00 183 Die Monster AG: BeschreibungFilm244>>KommentarFilmDie Monster AG
+000245 41 254 07 067 In the Mood for Love - Der Klang der Liebe: BeschreibungFilm245>>KommentarFilmIn the Mood for Love - Der Klang der Liebe 
+000246 98 699 13 139 L.A. Crash: BeschreibungFilm246>>KommentarFilmL.A. Crash
+000247 67 150 17 166 Frühling, Sommer, Herbst, Winter... und Frühling: BeschreibungFilm247>>KommentarFilmFrühling, Sommer, Herbst, Winter... und Frühling 
+000248 18 713 00 171 Die Schöne und das Biest: BeschreibungFilm248>>KommentarFilmDie Schöne und das Biest
+000249 49 589 04 200 Kaze no tani no Naushika: BeschreibungFilm249>>KommentarFilmKaze no tani no Naushika
+000250 56 627 07 140 Sprich mit ihr: BeschreibungFilm250>>KommentarFilmSprich mit ihr

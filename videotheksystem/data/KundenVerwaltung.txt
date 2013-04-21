@@ -1,0 +1,4 @@
+1#Mustermann, Max#2000/01/01#Musterstr. 99, 12345 Musterhausen#1#
+2#Testname, Testvorname#1999/12/31#Teststraße 125, 99999 Teststadt#0#
+3#MyName, MyFirstName#1970/12/08#MyStreet 3, 00815 MyCity#0#
+4294967295#Leonardo Hotels, Omar Jamil#1900/01/01#Hardenbergstr. 12, 10623 Berlin#1#
